@@ -1,0 +1,797 @@
+commit 830a9c16f0b75d4468399f921fbbdfa18b9c79c2
+Author: U-USASK\pvj636 <pvj636@PEON10.usask.ca>
+Date:   Thu Oct 5 20:45:25 2023 -0600
+
+    part e test
+
+commit d6e107ee697c170ba0f897e2332e2a6f1f47bdf1
+Author: U-USASK\pvj636 <pvj636@PEON10.usask.ca>
+Date:   Thu Oct 5 20:42:56 2023 -0600
+
+    part e test
+
+commit 5aab7d4ea8495ee0866ac23b4e987c8167b01da6
+Merge: 35fa5c1 b67af2c
+Author: Preet Jain (pvj636) <pvj636@mail.usask.ca>
+Date:   Thu Oct 5 20:08:44 2023 -0600
+
+    Merge branch 'addWextraMakefile' into 'main'
+    
+    Add wextra makefile
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!11
+
+commit b67af2c64efd6477edda0bbc967ee4e5969cabed
+Author: U-USASK\pvj636 <pvj636@PEON10.usask.ca>
+Date:   Thu Oct 5 20:07:23 2023 -0600
+
+    resolved error fomr wetra in a1
+
+commit 5ab1df082f90b4fe6445cc146346a0b826b043c1
+Author: U-USASK\pvj636 <pvj636@PEON10.usask.ca>
+Date:   Thu Oct 5 20:06:50 2023 -0600
+
+    The makefile now has Wextra
+
+commit 35fa5c18ad848e0391c4b86ac37eb558f633a374
+Merge: b46984d 34f93d8
+Author: Preet Jain (pvj636) <pvj636@mail.usask.ca>
+Date:   Thu Oct 5 19:51:35 2023 -0600
+
+    Merge branch 'updatingA1' into 'main'
+    
+    Updating a1
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!10
+
+commit 34f93d8062f05e285323effff261d1e573b5000f
+Author: U-USASK\pvj636 <pvj636@PEON10.usask.ca>
+Date:   Thu Oct 5 19:48:44 2023 -0600
+
+    The part A parent thread is being called as function 
+and the time is being printed in microseconds
+
+commit 74c5df12d358ce4305a867f428791d10ef5c75ea
+Author: U-USASK\pvj636 <pvj636@PEON10.usask.ca>
+Date:   Thu Oct 5 19:48:04 2023 -0600
+
+    The part A design has been updated
+
+commit b46984d7870926e5de92dcc1abd03123398efe94
+Merge: b2a6ad6 6fe486b
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 19:25:26 2023 -0600
+
+    Merge branch 'd-p3-parta3' into 'main'
+    
+    D p3 parta3
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!9
+
+commit 6fe486ba38778aa975c9f729782c29be6ef47fc4
+Merge: d02c0a3 b2a6ad6
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Oct 6 01:25:13 2023 +0000
+
+    Merge branch 'main' into 'd-p3-parta3'
+    
+    # Conflicts:
+    #   a1-phase3/partA3.c
+
+commit d02c0a304dc6e117ee09eb3df5f5d8bb613230f8
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 19:23:36 2023 -0600
+
+    change
+
+commit b2a6ad69f6b0f022f2469bd9980fe514269e3b23
+Merge: 6ba5f56 be6c15f
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 19:16:18 2023 -0600
+
+    Merge branch 'd-partc' into 'main'
+    
+    changed the data type of SystemId in thread data structure from unsigned int...
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!8
+
+commit be6c15f5e3414768d1e72e59464afd5f0bca6843
+Merge: a663af9 6ba5f56
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Oct 6 01:14:47 2023 +0000
+
+    Merge branch 'main' into 'd-partc'
+    
+    # Conflicts:
+    #   a1-phase3/Makefile
+    #   a1-phase3/list.c
+    #   a1-phase3/list_movers.c
+    #   a1-phase3/mytestlist.c
+
+commit a663af9a0f693848f51ee92822f9bdc013923a3a
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 18:56:01 2023 -0600
+
+    added Square file which I downloaded from git to avoid merge conflict
+
+commit f260ea141455d584bae9424d7039d3ff2f587c81
+Merge: 549d382 8abed19
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 18:47:12 2023 -0600
+
+    Merge branch 'd-partc' of https://git.cs.usask.ca/cmpt332
+/cmpt-332-fall-2023/cmpt332-2023-group15 into d-partc
+
+commit 549d382f5c47bbad79d1907375c269125a3f7f34
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 18:40:04 2023 -0600
+
+    there were 2 missing brackets that were giving warnings in list_adders,
+ fixed them and added tests of running sample-test-list to the 
+partctestresults.txt
+
+commit 6eca2a0ccfa2611d9e0686d1a9db3a6955381ed5
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 18:23:58 2023 -0600
+
+    remover the credit part from adders and some other commented part
+
+commit 6ba5f5688ea276fab595179aace35615c2501ea8
+Merge: e8b595f e2cd704
+Author: Preet Jain (pvj636) <pvj636@mail.usask.ca>
+Date:   Thu Oct 5 18:05:38 2023 -0600
+
+    Merge branch 'partA2Testing' into 'main'
+    
+    Part a2 testing
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!7
+
+commit e2cd70408ae3b54425ea2dc37f90372142aee7d7
+Author: Preet <pvj636@usask.ca>
+Date:   Thu Oct 5 18:01:04 2023 -0600
+
+    testing for partA2 has been completed is now wokring and results 
+are stored in this file
+
+commit 3c6d82f910cc3ad7889b4ab87b3616bc3d9903fa
+Author: Preet <pvj636@usask.ca>
+Date:   Thu Oct 5 17:58:59 2023 -0600
+
+    its checking for string and negative inouts and also max inputs for 
+each of them have been set
+
+commit 377f5959c949babe1a7ecb882510e9e30e405b7a
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 17:54:22 2023 -0600
+
+    previous commit was for list_adders but I added list_movers by mistake
+
+commit 4be77ba641468e8998522240b8997acb6e24153c
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 17:53:08 2023 -0600
+
+    fixed a bug in list insert and increased maxnodes and max lists
+
+commit f46854eae39c8edb0325f7d1f3ff443d86abfda7
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 17:02:20 2023 -0600
+
+    updated makefile to compile executables needed in the final phase
+
+commit ad2f203b38a7f1c52ebddf74bb034b940074671a
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 16:51:27 2023 -0600
+
+    added the sample test list file
+
+commit 43cfd48646b93c2c8c5c26626f2448515dc5d85f
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 16:49:29 2023 -0600
+
+    updated testplan and test results for part c
+
+commit dab3fbc387389450b6cc7e4ace212088116ec173
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 16:39:47 2023 -0600
+
+    updated the design document for partC
+
+commit e8b595f7321b7943e7ac61b5ccffc90d42fb7f48
+Author: Preet <pvj636@usask.ca>
+Date:   Thu Oct 5 16:06:10 2023 -0600
+
+    The parte deisgn doc is now updated
+
+commit ac2e9c8ec0475f3c8bbcdb9e0c31894f1bf59ac9
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 15:28:57 2023 -0600
+
+    changed every test case to print if successful because professor said w
+e should do thst in the class, earlier I was only printing when it didn't work 
+as expected
+
+commit 5b634928e72e5b9cf0c7965c1882b81f1cc6aeda
+Author: Preet <pvj636@usask.ca>
+Date:   Thu Oct 5 15:13:49 2023 -0600
+
+    The xv6-diff file is created
+
+commit fd54359a84562ab65f187485e9a6a959d71429d0
+Merge: 655ab71 41b4360
+Author: Preet <pvj636@usask.ca>
+Date:   Thu Oct 5 14:12:55 2023 -0600
+
+    Merge branch 'partE'
+
+commit 1e01376a7dcae1a8defdcb9b858c20c74a90cd60
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 14:07:03 2023 -0600
+
+    passing a function pointer to ListFree and ListSearch
+
+commit 39e04dbe27b9b3e757193fc5a8ce3bc19d05f49f
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 01:42:41 2023 -0600
+
+    added a testcase for ListFree and sloved bugs from it
+
+commit ea91ec99f879ddb664e2dc6d494aeddff9120389
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 01:12:51 2023 -0600
+
+    added code to change the curr to fist for ListFree to be called on each elements
+
+commit 16764cbcb50e0369f4170c94553dee7424140d89
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Oct 5 01:01:00 2023 -0600
+
+    added functionality in ListFree to remove each node and then delete the list
+
+commit b4dd08277206ad2437f709eefcb71dcc44ecc9ad
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Wed Oct 4 19:23:21 2023 -0600
+
+    changing keeprunning to true before creating child threads
+
+commit 41b436018e96a46d051313bd3a069ea132ae6fdd
+Author: Preet <pvj636@usask.ca>
+Date:   Tue Oct 3 23:12:37 2023 -0600
+
+    All the files needed on user side to run trace have been updated
+
+commit a435ade29a297697a3d0f4ee32304ba3c850a329
+Author: Preet <pvj636@usask.ca>
+Date:   Tue Oct 3 23:11:26 2023 -0600
+
+    all the parts needed in kernel to run trace have been updated and 
+trace is now running
+
+commit d617c2977841ab2041a247080a2608a4c78112c5
+Author: Preet <pvj636@usask.ca>
+Date:   Tue Oct 3 15:06:57 2023 -0600
+
+    The syscall.h has the trace prototype and Makefile has the _trace
+
+commit 655ab71c17013beb9656d195b30d02c4a0034d7d
+Author: Preet <pvj636@usask.ca>
+Date:   Tue Oct 3 13:47:44 2023 -0600
+
+    resolving merge conflict between d-partc and main
+
+commit be9bcd9079ea50417ea06a146536723f8ceb73fd
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 19:31:33 2023 -0600
+
+    improved the last test case to get rid of warnings
+
+commit fb58738326c8f7acb45cc16a52f79f240fdc424c
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 19:27:06 2023 -0600
+
+    added 2 more test cases to test FREELISTS
+
+commit 4659a9e7b9e683209ba65e8047c3d121afa6d55e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 19:22:01 2023 -0600
+
+    had a +1 on line 97, but realized it's not needed when used gdb
+
+commit d0d6efea6d9055b12f7bed306b2367a86d9d6527
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 19:16:57 2023 -0600
+
+    FREELISTS is not working, will have to use gdb and check what's the matter
+Preet Jain /Devam Patel
+pvj636 / dns682
+commit d3003171f91068c862b21e9eb0bef8eb3906c94f
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 19:15:47 2023 -0600
+
+    added a test case to test if FREEELISTS works
+
+commit 838f22e720f5d9ff792e1ff483cd4c76bdbca9e1
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 19:00:10 2023 -0600
+
+    added another test which tests ListSearch with an item in the list but before curr
+
+commit 92cc589f24319205fb72e597ca5587a1d77687b8
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:56:11 2023 -0600
+
+    added another test which tests ListSearch with an item not in the list
+
+commit 8f64a469dc5daf253e0cff4dae4f5bd11ed2b016
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:55:19 2023 -0600
+
+    changed listCurr to return Null if list->curr is null rather than
+ checking for list->count
+
+commit 6327fbaac5061d8a7cfd39115d292cc01d120fda
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:49:15 2023 -0600
+
+    removed an unwanted if condition in ListSearch which used to check for the 
+last item because our loop use to leave the last item earlier is no longer needed
+
+commit 231bdd44b3694d81be3e615b9407d99979f9a7c8
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:42:53 2023 -0600
+
+    added a test for ListSearch to search for an item in a list that contains 
+the item which suceeds
+
+commit 3dee4d6277b2ce98ac81cc1d4c8da1a34af59b12
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:32:56 2023 -0600
+
+    added implementation of a function testCmpInt to test ListSearch
+
+commit 9d6ae2ac283a0f85052e7dba24ad270d55a24898
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:31:45 2023 -0600
+
+    added a definition of a function testCmpInt in list.h to test list search
+
+commit b90b03a765b619407a5b9ba2c4a78a8915141b6e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:13:39 2023 -0600
+
+    implemented ListFree properly without first checking if the list is empty
+ because it checks in the loop itself
+
+commit e742cb0fda993e842730197f4f14497858c1884c
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:06:26 2023 -0600
+
+    added code in ListFree function to return if the list is empty
+
+commit 8c98adfb5290ba7a6812a923032dd59f8b2fcce1
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:03:31 2023 -0600
+
+    changed the name of typedef og itemFree routine from FREENODE to freeRoutin
+e to avoid confusions
+
+commit 83558bf6b3e0a0e0dcfd2b36a3e71a01529541d8
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 18:00:31 2023 -0600
+
+    added code to return NULL if there are no lists in the pool or in the freelists
+ because we haven't implemented bonus part for part C lists yet
+
+commit cf30c9269a7cc6efca1c206ff01e218511def72c
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 17:56:51 2023 -0600
+
+    added code in list create to check if there are any list pointers in the 
+FREELISTS and if there are then return 1 from it and decrement the index counter
+
+commit 5f03f06fb18febbcab2e775d05efd04775f5d779
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 17:53:17 2023 -0600
+
+    added code to add the second list's pointer in ListConcat to FREELISTS
+
+commit 8abed19bbaa96288e118dae3ccc05a2f158bffb1
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 17:21:47 2023 -0600
+
+    Delete Square.c
+
+commit d4e999a2bb7c846709274c0d2886176d46140780
+Merge: 20eb5b6 2b88c38
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Mon Oct 2 17:13:38 2023 -0600
+
+    Merge branch 'updateA2' into 'main'
+    
+    The parent thread priority was changed to high and child to norm so that the...
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!5
+
+commit 2b88c38b0d6b960c211e907e8eeb8a827410ea75
+Merge: a85201a 06b0f4a
+Author: Preet Jain (pvj636) <pvj636@mail.usask.ca>
+Date:   Mon Oct 2 17:09:42 2023 -0600
+
+    Merge branch 'testPartA2' into 'updateA2'
+    
+    The partA2 if statement were returning 1 so it was showing errors, which is now solved
+    
+    See merge request cmpt332/cmpt-332-fall-2023/cmpt332-2023-group15!4
+
+commit 06b0f4a2f8b15e9a7509780098e2e3749866b161
+Author: Preet <pvj636@usask.ca>
+Date:   Mon Oct 2 17:06:55 2023 -0600
+
+    The partA2 if statement were returning 1 so it was showing errors, 
+which is now solved
+
+commit a85201a3a035a0c38450c517ff46a88f0a37ee54
+Author: Preet <pvj636@usask.ca>
+Date:   Sun Oct 1 19:46:05 2023 -0600
+
+    making sure changes are saved
+
+commit f4979536ed6d5e9cf784af96b5f3d3ad22890f11
+Author: Preet <pvj636@usask.ca>
+Date:   Sun Oct 1 19:43:48 2023 -0600
+
+    childthreads are now also calculating thei runtime and storing in 
+threadArray for parent to print
+
+commit ac0ef4603cf5d6e71f4ee6850372b6cce0436758
+Author: Preet <pvj636@usask.ca>
+Date:   Sun Oct 1 18:49:32 2023 -0600
+
+    partA2.c child threads are now calling sqaure the require number of
+ times and counter is also getting updated as needed
+
+commit 2cfefd0875333b4dc1516ca94a177193c0863d12
+Author: Preet <pvj636@usask.ca>
+Date:   Sun Oct 1 17:35:27 2023 -0600
+
+    square now expects a index when calling getIndex
+
+commit 94dfdeebc11d1490282ffb9e1c639b5accfdd4d7
+Author: Preet <pvj636@usask.ca>
+Date:   Sun Oct 1 17:34:43 2023 -0600
+
+    partA1.h has now defined ifdef UBC_Pthreads to resolve the issue of diff types of systemID
+
+commit 3616d04056b5ec761601b2bbaf6d27e645acaf31
+Author: Preet <pvj636@usask.ca>
+Date:   Sun Oct 1 17:32:50 2023 -0600
+
+    partA2.c:getIndex is now returning an index of the threadArray 
+that will be used by square to update the counter
+
+commit 543b423c01372fcc49bc7d19a5b94087f22aafe9
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Sat Sep 30 01:25:24 2023 -0600
+
+    tried to solve counter problem but not working
+
+commit f8be0c4e837419f49d444b24aec18fc7c3706b46
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Sat Sep 30 01:12:12 2023 -0600
+
+    added manual implementation in ListConcat to take care when the
+ first list is empty and it works now
+
+commit 60e5b8ebc3279da031f40d24045353d44d74b397
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 22:09:04 2023 -0600
+
+    still have to test ListSearch
+
+commit eb210d42c3137f22d5de1d0d3c43e702a987998f
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 21:52:52 2023 -0600
+
+    added test cases for ListTrim()
+
+commit 46b1161cdf98dad0d7cb7253f4cd1ebb333438b1
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 21:42:10 2023 -0600
+
+    added code to increment the counter of list1 in listconcat
+
+commit 1cc5fed81ee79d077821b8297f36b8b2cc3aa36b
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 21:39:34 2023 -0600
+
+    added another test for ListConcat()
+
+commit a242cd7a6b61b7c197c402a23da6a45b1100b3a4
+Author: Preet <pvj636@usask.ca>
+Date:   Fri Sep 29 21:35:54 2023 -0600
+
+    The parent thread priority was changed to high and child to norm so 
+that the children gets different PID each time
+
+commit f2864928f6e854f04411c21b295d5eb95103b43e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 21:35:30 2023 -0600
+
+    cannot figure out how listconcat will work when list 1 is empty so 
+left its tests for now
+
+commit 5a3f27ecd0d72e07c0fb6f4860af33e947c45ca6
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:55:25 2023 -0600
+
+    Fixed a bug in listconcat forgot to add an else
+
+commit 7ea510c76acd25923ac9d6d90165145de599853c
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:46:07 2023 -0600
+
+    set total lists in the pool to 20 for now
+
+commit e3e39b3d2b52c3aa4230a68c1778a0bb171509f5
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:45:31 2023 -0600
+
+    added some test cases for ListConcat()
+
+commit 2d7302d6f71b4574d1a4483c3f89456bbf343704
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:29:17 2023 -0600
+
+    added test cases for ListRemove() and it is working properly
+
+commit 2218fefc9c3002fa934172782f0495aef2032aee
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:13:34 2023 -0600
+
+    Problem resolved, I forgot to add a else on line 80 in list_removers.c, thanks to gdb
+
+commit cb528cdf7be2a96adc2d18ea344320b45d9ab89d
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:08:34 2023 -0600
+
+    added a test case for ListRemove but it failed
+
+commit f67223f50707be930523bcd800fdf76977608733
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 20:03:38 2023 -0600
+
+    added tests for ListCurr and some tests for Listremove and added a \n
+ in one of the printf() in ListRemove
+
+commit 5865882aea1ebcc6dea9c85459e2e36ac0d54c1a
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 19:50:08 2023 -0600
+
+    added test cases to test lisrprev and listnext
+
+commit e8331855b5dddccbff027c2bd0ae0fc39b873be5
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 19:38:52 2023 -0600
+
+    added 1 test for ListLast
+
+commit 58fa8710a505a8486ab4fa9b8d3c7b1305effa86
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 19:13:53 2023 -0600
+
+    changed 1 rule in Makefile to add object files of listmovers and list
+ adders while linking
+
+commit b7a5c65e60bbd967649e135c9e6c4a105db7cd7b
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 19:10:42 2023 -0600
+
+    added some test cases to test ListCount()
+
+commit 7d2dfc879efa9ee3a847b00e48547a00eac05f33
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 16:24:06 2023 -0600
+
+    added code to return item if flag is 1 or return null
+
+commit 619ec1d4e99f66ae086f90493b60df33fcc154be
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 16:16:28 2023 -0600
+
+    added implementation of ListSearch to change flag to 1 if comparator returns 1
+
+commit a4634bed1575cc6cd850cae1c2156ca586dd3241
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:55:13 2023 -0600
+
+    added implementation of ListConcat and got an idea for bonus part
+
+commit 0620fb09e4c1da87c485897dbb333e10dc83317b
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:41:40 2023 -0600
+
+    uncommented rule to compile list_movers to check for warnings and errors
+
+commit 2dd9b92c6900347f7e678b103985909c8cd7295d
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:34:47 2023 -0600
+
+    added implementation of ListCurr
+
+commit 47ecf309f06c4f7dc7f69b0bc2494083d39ba638
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:32:42 2023 -0600
+
+    added implementation of list prev and added a special case when the
+ list is empty in all the procedures
+
+commit 6dcf1cce8899d3c699a5dc68dbc99f524aedbcf9
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:28:02 2023 -0600
+
+    added implementation of ListLAst and ListNext
+
+commit b0263b2cfb504e9376d8c690cb414a4264e74ff9
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:25:11 2023 -0600
+
+    added implementation of ListFirst in list movers
+
+commit f5fca63cc49c341697d52eee884c85c91dce9e09
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 15:14:05 2023 -0600
+
+    added implementation of ListTrim similar to ListRemove but only for 
+last node and copied the freenode lists job from listremove
+
+commit d6d51dc21ef3bfc8d35b46aeddf464cedbfebccb
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 14:57:07 2023 -0600
+
+    added method stub and some commented instructions for implementation
+
+commit 3f5290d762e1b22d4b038a564b5beb21911a0ff8
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 14:49:18 2023 -0600
+
+    fixed a typo on line 66 forgot to add > in ->
+
+commit 94e3898ceb82e489eecce0a18a416bffb06ece06
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 14:47:13 2023 -0600
+
+    added the -I option for compiling list_removers rule
+
+commit 91c1845755371fb29f0c6df3f1a511a513d99238
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 14:46:10 2023 -0600
+
+    uncommented rule in makefile to compile list_removers to check
+ for errors and warnings
+
+commit 921d33a105ff15c96577434dd4e5175ed040062e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 14:44:04 2023 -0600
+
+    implemented adding the freenode to freenodes list like ListAppend()
+
+commit 54c9c352092efcbec7546a1df92b3675c49c4d06
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 14:16:13 2023 -0600
+
+    I added implementation of listremove now, I just need to add the 
+removed node to freenodes list at it's suitable location
+
+commit 2338e778340470e5e0ac75ef4b48dfd59d71cc36
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 13:28:19 2023 -0600
+
+    added comments in ListRemove() for implementing how to remove the node
+
+commit a12c5e4c54d61b7d107036d54ddeeb4848f7fe9f
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 12:17:30 2023 -0600
+
+    added testing for ListCount() in mytestlist.c
+
+commit 5aa7b6b5b8e3e6613e748da73af9b0b55697c154
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 12:06:52 2023 -0600
+
+    added implementation of ListCount() in list.c
+
+commit ec48d2c7c3c7865b9aa3248829f1bf3e81f84c6b
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 11:58:43 2023 -0600
+
+    changed type of threadId to unsigned int from unsigned long int by
+ type casting in partA3.c, will probably need to change it back later and 
+change it's type in square.c and header file as well
+
+commit 4455f15be5d82532921363dc777dbaf86f681970
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Fri Sep 29 11:49:51 2023 -0600
+
+    changed data type of SystemId in thread array back to unsigned int from unsigned long int
+
+commit 7b149bb8dc0a9d1f3b40c5bbb9bc7e5065684288
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 23:29:52 2023 -0600
+
+    subtracted microseconds to see time difference in partA3
+
+commit 8d0ec1a88ca9a77e7dc30d9f6ef6d844e9d699bc
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 23:22:53 2023 -0600
+
+    tried a few things but time or counter is still not working
+
+commit f084e4639c5a1b3b226982cb57f053537872d17e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 23:13:27 2023 -0600
+
+    added a elapsedtime calculater in partA3 which is not working
+
+commit 9a3726df2002e244b5a96a95c4e3d963313fabb2
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:43:11 2023 -0600
+
+    fixed another bug on line 40, forgot a ) after params to type cast it but 
+counter is not incrementing will have to look into it
+
+commit fe53a020bce723d124452ffe539731d7fd662e0e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:38:51 2023 -0600
+
+    fixed a typo on line 40 had 2 s instead of 1 in struct
+
+commit ca32b60064c306d51c74df247dd99c26272d6a0e
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:37:20 2023 -0600
+
+    changed getIndex() function to return current thread Id and added a 
+for loop in child function which loops through threadArray to find current 
+thread and print it's counter
+
+commit c966f7409e550b148e3d342c3af142e1ba1b1af7
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:26:10 2023 -0600
+
+    added code in parent_function to store id and counter for each child in threadArray
+
+commit 7f016f9bda8e393dfd2402f5f823fd54ea5bb041
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:23:51 2023 -0600
+
+    changed the data type of SystemId in thread data structure from unsigned 
+int to unsigned long int to store id of POSIX threads
+
+commit de874cc43c880ca5757c482f74acf7f2b6aade5c
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:16:53 2023 -0600
+
+    added code to call Square for size number of times in child_function
+
+commit 15e251b1fda3e24bc1e870bdd20758b894cee9b3
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 22:13:48 2023 -0600
+
+    added a parameter in child function to get size
+
+commit 308660c2da97103828c3f6fde40e201186b39a15
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 20:44:52 2023 -0600
+
+    tried using gettimeofday() in partA3 and print the start time, and it is working
+
+commit 20eb5b6ee1ff094b0a0a7cd37f6c0706aa8f5380
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 16:28:33 2023 -0600
+
+    added files from phase 2
+
+commit 4f43cc6377b4013a02f546250a20ffa7d40fcbe9
+Author: DEVAM PUNITBHAI PATEL (dns682) <dns682@mail.usask.ca>
+Date:   Thu Sep 28 14:45:12 2023 -0600
+
+    Add new directory
